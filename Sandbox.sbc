@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>204300000000</ElapsedGameTime>
+  <ElapsedGameTime>204482080000</ElapsedGameTime>
   <SessionName>game4</SessionName>
   <SpectatorPosition>
-    <Position x="-995" y="16.250000000000114" z="-982.50000000000011" />
+    <Position x="-995.000086757601" y="16.249976477225175" z="-982.50009659140278" />
     <Forward x="-0.577350259" y="-0.577350259" z="-0.577350259" />
     <Up x="-0.4082483" y="0.8164966" z="-0.4082483" />
   </SpectatorPosition>
@@ -13,7 +13,7 @@
   <ControlledObject>160375987020381130</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2015-02-27T19:59:09.2906909+03:00</LastSaveTime>
+  <LastSaveTime>2015-02-27T20:38:46.7373326+03:00</LastSaveTime>
   <WorldID>c02169d7-9d9d-4ebb-a4d1-6aa16ad9363e</WorldID>
   <SpectatorDistance>31.8301144</SpectatorDistance>
   <ConnectedPlayers>
